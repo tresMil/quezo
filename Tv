@@ -1,0 +1,2752 @@
+#EXTM3U  
+
+#EXTINF:-1,****IXTLA ARREOLA****IXTLA ARREOLA****
+http://3-120heat.pulsedmedia.com/public-llave1/list/public/
+#EXTINF:-1,LISTA GRATUITA PARA TODOS
+http://arreola.com/live/777/777/777.m3u8
+#EXTINF:-1, NO LA CLONES
+http://www.androidcreator.com/app381319
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8pbx0w7B8m0ymgPYU0H1KC2dNDOx48Yn24HPwTFe00JC7ym8Nrs6XbpY6X0INKYLqVSG=w300"group-title="Canales",IMPACTOVISION
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, FM HOT PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1, FM HOT PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+#EXTINF:-1, FM HOT PELICULAS
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b800000_slesp.m3u8
+#EXTINF:-1, Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1, orbit tv
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:-1, TELE RED RETRO
+http://k4.usastreams.com/Telesistemas/Telesistemas/media_w352570325.m3u8
+#EXTINF:-1, ACS RETRO
+https://59f2354c05961.streamlock.net:1443/acsanetworktv/_definst_/acsanetworktv/chunklist_w530859426.m3u8
+#EXTINF:-1, LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1, INTERCABLE CANAL 10
+http://201.217.3.212/TV/intercable/playlist.m3u8
+#EXTINF:-1, HB TV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0, canal 13 nicaragua
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+#EXTINF:0, Life tv
+http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8
+#EXTINF:-1,OUI TV3
+http://ss8.domint.net:2102/oui_str/ouitv/chunklist_w603070266.m3u8
+#EXTINF:-1,Galaxia
+http://server3.prostudionetwork.com:1957/telecontacto/galaxia/chunklist_w500062277.m3u8
+#EXTINF:0,Azteca A
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1,EfectoTv
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-p.m3u8
+#EXTINF:-1, Canal 8 
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8 
+#EXTINF:-1,Canal 10 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xKwAuc.png" group-title="MEXICO", Capital 21 Mexico City
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&amp;set-cc-attribute=cc
+#EXTINF:-1,Foro TV
+http://d3eai9817mp853.cloudfront.net/out/u/forotv-anvato.m3u8
+#EXTINF:-1, Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,A+ SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+#EXTINF:-1, A+2 SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:-1, EFECTO TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+#EXTINF:-1, Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+#EXTINF:-1, ADN40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+#EXTINF:0, AZTECA 1
+https://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, Distrito Comedia
+http://aleiptv.mine.nu:8000/live/luis123/luis123/321.m3u8
+#EXTINF:0, Canal 5
+http://latino-webtv.com:2082/livexd3/339_.m3u8
+#EXTINF:0, Las Estrellas
+http://latino-webtv.com:2082/livexd3/340_.m3u8
+#EXTINF:0,WIN SPORTS
+http://latino-webtv.com:2082/livexd3/70_.m3u8
+#EXTINF:0, ESPN 3
+http://latino-webtv.com:2082/livexd3/111_.m3u8
+#EXTINF:0,TCM
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
+#EXTINF:0,History Channel
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:0,H2
+http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
+#EXTINF:0,UNIVISION HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3796.m3u8
+#EXTINF:0,UNIVISION MIAMI
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3177.m3u8
+#EXTINF:0,UNIVISION NEW YORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2021.m3u8
+#EXTINF:0,TELEMUNDO HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3794.m3u8
+#EXTINF:0,TELEMUNDO 47
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3785.m3u8
+#EXTINF:0,TELEMUNDO NY
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3202.m3u8
+#EXTINF:-1, MLB
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1, Fight time (ufc)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1, Disney xd
+http://wowza2.mysoltv.com:1992/Latino_Disney_XD/index.m3u8
+#EXTINF:-1, Cachipum tv
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:0,CHILE:CHV
+#EXTVLCOPT:network-caching=1000
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:0, granad
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Granada/playlist.m3u8
+#EXTINF:-1, luna tv
+http://ss1.domint.net:2140/luna_str/lunatv/media_w719846308.m3u8
+#EXTINF:0,KIDS:TVN KIDS
+#EXTVLCOPT:network-caching=1000
+http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/index-v1-a1.m3u8?
+#EXTINF:0,LA: 5 StarMax FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102009.m3u8
+#EXTINF:0,LA: 8 TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80151.m3u8
+#EXTINF:0,LA: 13 TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80153.m3u8
+#EXTINF:0,LA: 24/7 Mr Bean
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104859.m3u8
+#EXTINF:0,LA: 24/7 Terror 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101555.m3u8
+#EXTINF:0,LA: 24/7 Terror FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101554.m3u8
+#EXTINF:0,LA: 360 TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80152.m3u8
+#EXTINF:0,LA: 52MX
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68780.m3u8
+#EXTINF:0,LA: A&E HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68433.m3u8
+#EXTINF:0,LA: A24 FHD LAM
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80162.m3u8
+#EXTINF:0,LA: A3 SERIES HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77758.m3u8
+#EXTINF:0,LA: ActionMax FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102008.m3u8
+#EXTINF:0,LA: ALF 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77846.m3u8
+#EXTINF:0,LA: AMC HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68407.m3u8
+#EXTINF:0,LA: AMERICAN DAD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101565.m3u8
+#EXTINF:0,LA: ANIMAL PLANET HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68553.m3u8
+#EXTINF:0,LA: Antena 3 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68512.m3u8
+#EXTINF:0,LA: ANTENA 3 SERIES
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68487.m3u8
+#EXTINF:0,LA: ANTI ESTRES 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/111892.m3u8
+#EXTINF:0,LA: ANTI ESTRES II 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/111893.m3u8
+#EXTINF:0,LA: ANTI ESTRES III 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/111894.m3u8
+#EXTINF:0,LA: Antiestres
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/94270.m3u8
+#EXTINF:0,LA: ARICA TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112195.m3u8
+#EXTINF:0,LA: ARIRANG
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116802.m3u8
+#EXTINF:0,LA: ARTS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/89695.m3u8
+#EXTINF:0,LA: ATV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77880.m3u8
+#EXTINF:0,LA: AXN HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68480.m3u8
+#EXTINF:0,LA: AyM Sports
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68850.m3u8
+#EXTINF:0,LA: Az Click HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80191.m3u8
+#EXTINF:0,LA: AZ MAS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/89697.m3u8
+#EXTINF:0,LA: AZ UNO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/89698.m3u8
+#EXTINF:0,LA: AZTECA 7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77856.m3u8
+#EXTINF:0,LA: Azteca 13 (Mexico)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/89699.m3u8
+#EXTINF:0,LA: Azteca Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77745.m3u8
+#EXTINF:0,LA: Azteca Corazon
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68549.m3u8
+#EXTINF:0,LA: Azteca Noticias
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/122022.m3u8
+#EXTINF:0,LA: AZTECA PLUS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77810.m3u8
+#EXTINF:0,LA: BABY TV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68511.m3u8
+#EXTINF:0,LA: BANDAMAX HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68367.m3u8
+#EXTINF:0,LA: BBC ENTERTAINMENT
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68895.m3u8
+#EXTINF:0,LA: BBC WORLD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68604.m3u8
+#EXTINF:0,LA: beIN Sports HD LaLiga
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/123169.m3u8
+#EXTINF:0,LA: beIN Sports N
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116125.m3u8
+#EXTINF:0,LA: BLOOMBERG HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77751.m3u8
+#EXTINF:0,LA: BOB ESPONJA 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77845.m3u8
+#EXTINF:0,LA: BOOMERANG HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68548.m3u8
+#EXTINF:0,LA: BOX NATION
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68496.m3u8
+#EXTINF:0,LA: C5N
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97596.m3u8
+#EXTINF:0,LA: CABALLEROS DEL ZODIACO 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77844.m3u8
+#EXTINF:0,LA: CABLE NOTICIAS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/123178.m3u8
+#EXTINF:0,LA: CABLEONDA SPORTS FC
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77868.m3u8
+#EXTINF:0,LA: CABLEONDA SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77870.m3u8
+#EXTINF:0,LA: CACANAL DE LAS ESTRELLAS HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68587.m3u8
+#EXTINF:0,LA: Canal 2 (Nicaragua)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116114.m3u8
+#EXTINF:0,LA: Canal 3 Rosario
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/115226.m3u8
+#EXTINF:0,LA: CANAL 4 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68464.m3u8
+#EXTINF:0,LA: Canal 5 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80190.m3u8
+#EXTINF:0,LA: Canal 7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112199.m3u8
+#EXTINF:0,LA: CANAL 10 (Uruguay)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/118866.m3u8
+#EXTINF:0,LA: Canal 11 (Venezuela)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/122023.m3u8
+#EXTINF:0,LA: CANAL 22
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97557.m3u8
+#EXTINF:0,LA: CANAL 26 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68379.m3u8
+#EXTINF:0,LA: CANAL CAPITAL
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68707.m3u8
+#EXTINF:0,LA: Canal De Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77928.m3u8
+#EXTINF:0,LA: Canal Disney HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101556.m3u8
+#EXTINF:0,LA: Canal KZO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112200.m3u8
+#EXTINF:0,LA: CANAL M (URUGUAY)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99854.m3u8
+#EXTINF:0,LA: CANAL N
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77879.m3u8
+#EXTINF:0,LA: CANAL N (URUGUAY)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77739.m3u8
+#EXTINF:0,LA: CANAL ONCE (VENEZUELA)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99850.m3u8
+#EXTINF:0,LA: Canal Trece
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/115227.m3u8
+#EXTINF:0,LA: CANAL TRO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116803.m3u8
+#EXTINF:0,LA: CANAL Uno (Ecuador)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78654.m3u8
+#EXTINF:0,LA: CANTINFLAS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101567.m3u8
+#EXTINF:0,LA: Cantinflas y Pedro Infante
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101557.m3u8
+#EXTINF:0,LA: CARACOL
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116804.m3u8
+#EXTINF:0,LA: Cartelera Primiere
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101558.m3u8
+#EXTINF:0,LA: Carton Network HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80188.m3u8
+#EXTINF:0,LA: Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77789.m3u8
+#EXTINF:0,LA: CB24
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78659.m3u8
+#EXTINF:0,LA: CBN Espanol
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/64628.m3u8
+#EXTINF:0,LA: CDN SPORTMAX HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77809.m3u8
+#EXTINF:0,LA: CDO BASICO HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68457.m3u8
+#EXTINF:0,LA: CHAPULIN COLORADO 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77843.m3u8
+#EXTINF:0,LA: CHESPIRITO TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101564.m3u8
+#EXTINF:0,LA: CHV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68474.m3u8
+#EXTINF:0,LA: CINE CANAL HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68389.m3u8
+#EXTINF:0,LA: CINE DINAMITA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68687.m3u8
+#EXTINF:0,LA: CINE LATINO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77855.m3u8
+#EXTINF:0,LA: CINE SONY
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77756.m3u8
+#EXTINF:0,LA: Cinema 01 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84379.m3u8
+#EXTINF:0,LA: Cinema 02 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84380.m3u8
+#EXTINF:0,LA: Cinema 03 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84381.m3u8
+#EXTINF:0,LA: Cinema 04 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84382.m3u8
+#EXTINF:0,LA: Cinema 05 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84383.m3u8
+#EXTINF:0,LA: Cinema 06 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84384.m3u8
+#EXTINF:0,LA: Cinema 07 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84385.m3u8
+#EXTINF:0,LA: Cinema 08 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84386.m3u8
+#EXTINF:0,LA: Cinema 09 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84387.m3u8
+#EXTINF:0,LA: Cinema 10 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84388.m3u8
+#EXTINF:0,LA: Cinema 11 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84389.m3u8
+#EXTINF:0,LA: Cinema 12 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84390.m3u8
+#EXTINF:0,LA: Cinema 13 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99976.m3u8
+#EXTINF:0,LA: Cinema 14 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99977.m3u8
+#EXTINF:0,LA: Cinema 15 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/84393.m3u8
+#EXTINF:0,LA: Cinema 16 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99978.m3u8
+#EXTINF:0,LA: Cinema 17 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99979.m3u8
+#EXTINF:0,LA: Cinema 18 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99980.m3u8
+#EXTINF:0,LA: Cinema 19 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99981.m3u8
+#EXTINF:0,LA: Cinema 20 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99982.m3u8
+#EXTINF:0,LA: Cinema 21 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99983.m3u8
+#EXTINF:0,LA: Cinema 22 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99984.m3u8
+#EXTINF:0,LA: Cinema 23 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99985.m3u8
+#EXTINF:0,LA: Cinema 24 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99986.m3u8
+#EXTINF:0,LA: Cinema 25 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99987.m3u8
+#EXTINF:0,LA: Cinema 26 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99988.m3u8
+#EXTINF:0,LA: Cinema 27 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99989.m3u8
+#EXTINF:0,LA: Cinema 28 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99990.m3u8
+#EXTINF:0,LA: Cinema 29 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99991.m3u8
+#EXTINF:0,LA: Cinema 30 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99992.m3u8
+#EXTINF:0,LA: Cinema 31 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99993.m3u8
+#EXTINF:0,LA: Cinema 32 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99994.m3u8
+#EXTINF:0,LA: Cinema 33 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99995.m3u8
+#EXTINF:0,LA: Cinema 34 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99996.m3u8
+#EXTINF:0,LA: Cinema 35 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99997.m3u8
+#EXTINF:0,LA: Cinema 36 PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99998.m3u8
+#EXTINF:0,LA: CINEMA PLUS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116797.m3u8
+#EXTINF:0,LA: Cinema PPV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102054.m3u8
+#EXTINF:0,LA: Cinemax Action HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77737.m3u8
+#EXTINF:0,LA: Cinemax East FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77736.m3u8
+#EXTINF:0,LA: CineMax FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68426.m3u8
+#EXTINF:0,LA: CITY NOTICIAS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116805.m3u8
+#EXTINF:0,LA: CLARO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97560.m3u8
+#EXTINF:0,LA: Claro Sports
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68685.m3u8
+#EXTINF:0,LA: Classique TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68837.m3u8
+#EXTINF:0,LA: Clro Sports HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/111895.m3u8
+#EXTINF:0,LA: CMD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77794.m3u8
+#EXTINF:0,LA: CNN EN ESPANOL
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/123179.m3u8
+#EXTINF:0,LA: Cnn Espanol
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116140.m3u8
+#EXTINF:0,LA: CNN INT HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68405.m3u8
+#EXTINF:0,LA: CNT SPORT FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68584.m3u8
+#EXTINF:0,LA: CNT SPORTS PPV 2
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68608.m3u8
+#EXTINF:0,LA: Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68425.m3u8
+#EXTINF:0,LA: CONCERT CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77755.m3u8
+#EXTINF:0,LA: CORAJE EL PERRO COBARDE 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77841.m3u8
+#EXTINF:0,LA: DATAIFX
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116806.m3u8
+#EXTINF:0,LA: DE PELICULA HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68415.m3u8
+#EXTINF:0,LA: Deportes 1 HD Eventos
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116049.m3u8
+#EXTINF:0,LA: Deportes 2 HD Eventos
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116050.m3u8
+#EXTINF:0,LA: DHE
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97691.m3u8
+#EXTINF:0,LA: Direct Tv Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116141.m3u8
+#EXTINF:0,LA: Direct Tv Sports+ HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116142.m3u8
+#EXTINF:0,LA: Directv Sport
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68642.m3u8
+#EXTINF:0,LA: Directv Sport 1
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68872.m3u8
+#EXTINF:0,LA: Directv Sport 2
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68644.m3u8
+#EXTINF:0,LA: DISCOVERY Channel HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68388.m3u8
+#EXTINF:0,LA: DISCOVERY CIVILIZATION
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68660.m3u8
+#EXTINF:0,LA: DISCOVERY FAMILIA HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68453.m3u8
+#EXTINF:0,LA: Discovery Home&Health
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68504.m3u8
+#EXTINF:0,LA: Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68502.m3u8
+#EXTINF:0,LA: Discovery KIDS HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68606.m3u8
+#EXTINF:0,LA: DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68541.m3u8
+#EXTINF:0,LA: Discovery Teather HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80181.m3u8
+#EXTINF:0,LA: DISCOVERY THEATER HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68540.m3u8
+#EXTINF:0,LA: Discovery TLC
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80180.m3u8
+#EXTINF:0,LA: Discovery Turbo HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68503.m3u8
+#EXTINF:0,LA: Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68416.m3u8
+#EXTINF:0,LA: Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68539.m3u8
+#EXTINF:0,LA: Disney Junior
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68656.m3u8
+#EXTINF:0,LA: Disney XD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68537.m3u8
+#EXTINF:0,LA: DISTRITO COMEDIA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78684.m3u8
+#EXTINF:0,LA: Donald Duck 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77818.m3u8
+#EXTINF:0,LA: DORAEMON 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77840.m3u8
+#EXTINF:0,LA: Dr. House
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102065.m3u8
+#EXTINF:0,LA: DRAGON BALL 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77839.m3u8
+#EXTINF:0,LA: DRAGON BALL GT 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77838.m3u8
+#EXTINF:0,LA: DW Latinoamerica
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116127.m3u8
+#EXTINF:0,LA: DW1
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68579.m3u8
+#EXTINF:0,LA: E! Entertainment HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77917.m3u8
+#EXTINF:0,LA: ECO (PANAMA)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99862.m3u8
+#EXTINF:0,LA: ECO TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77866.m3u8
+#EXTINF:0,LA: ECUADOR TV (Ecuador)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104209.m3u8
+#EXTINF:0,LA: ECUAVISA HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77884.m3u8
+#EXTINF:0,LA: El Chapul
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102063.m3u8
+#EXTINF:0,LA: EL CHAPULÍN COLORADO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101568.m3u8
+#EXTINF:0,LA: El Chavo del Ocho
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101559.m3u8
+#EXTINF:0,LA: EL COYOTE Y EL CORRECAMINOS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101569.m3u8
+#EXTINF:0,LA: EL COYOTE Y EL CORRECAMINOS 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77835.m3u8
+#EXTINF:0,LA: El GOURMET
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68404.m3u8
+#EXTINF:0,LA: EL NUEVE HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68378.m3u8
+#EXTINF:0,LA: EL PAJARO LOCO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101570.m3u8
+#EXTINF:0,LA: EL PAJARO LOCO 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77834.m3u8
+#EXTINF:0,LA: EL PINGUINO TV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68469.m3u8
+#EXTINF:0,LA: EL PRÍNCIPE DE BEL-AIR
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101571.m3u8
+#EXTINF:0,LA: EL SHOW DE LA PEQUEÑA LULU
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101572.m3u8
+#EXTINF:0,LA: EL TRECE HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68377.m3u8
+#EXTINF:0,LA: Enlace TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68574.m3u8
+#EXTINF:0,LA: ESNE
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116808.m3u8
+#EXTINF:0,LA: Esperanza TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68562.m3u8
+#EXTINF:0,LA: ESPN
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/111392.m3u8
+#EXTINF:0,LA: ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68403.m3u8
+#EXTINF:0,LA: ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112205.m3u8
+#EXTINF:0,LA: ESPN Deportes HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/106926.m3u8
+#EXTINF:0,LA: ESPN PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68470.m3u8
+#EXTINF:0,LA: ETC TV (Ecuador)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77795.m3u8
+#EXTINF:0,LA: EUROCHANNEL
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68893.m3u8
+#EXTINF:0,LA: EUROPA EUROPA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68766.m3u8
+#EXTINF:0,LA: EWTN
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78661.m3u8
+#EXTINF:0,LA: EXATV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97567.m3u8
+#EXTINF:0,LA: Exc
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112207.m3u8
+#EXTINF:0,LA: F1 Formula1
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77788.m3u8
+#EXTINF:0,LA: F1 TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/123202.m3u8
+#EXTINF:0,LA: Family Guy HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101560.m3u8
+#EXTINF:0,LA: FIGHT BOX HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77775.m3u8
+#EXTINF:0,LA: FILM ZONE
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68570.m3u8
+#EXTINF:0,LA: FILM&ARTS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68765.m3u8
+#EXTINF:0,LA: FOOD NETWORK HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68414.m3u8
+#EXTINF:0,LA: FORO TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77740.m3u8
+#EXTINF:0,LA: Fox 1 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80175.m3u8
+#EXTINF:0,LA: Fox Accion HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77923.m3u8
+#EXTINF:0,LA: Fox Action HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112208.m3u8
+#EXTINF:0,LA: FOX CINEMA HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68536.m3u8
+#EXTINF:0,LA: FOX Classics
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68653.m3u8
+#EXTINF:0,LA: FOX COMEDY HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68534.m3u8
+#EXTINF:0,LA: FOX DEPORTES HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68451.m3u8
+#EXTINF:0,LA: FOX FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68461.m3u8
+#EXTINF:0,LA: FOX HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77785.m3u8
+#EXTINF:0,LA: FOX LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68533.m3u8
+#EXTINF:0,LA: FOX MOVIES HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68366.m3u8
+#EXTINF:0,LA: FOX NEWS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68586.m3u8
+#EXTINF:0,LA: FOX SERIES
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68435.m3u8
+#EXTINF:0,LA: FOX SPORT SUR
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77829.m3u8
+#EXTINF:0,LA: FOX SPORT VEN
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77800.m3u8
+#EXTINF:0,LA: Fox Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77782.m3u8
+#EXTINF:0,LA: Fox Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/111397.m3u8
+#EXTINF:0,LA: Fox Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77783.m3u8
+#EXTINF:0,LA: FOX SPORTS CHILE
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/122384.m3u8
+#EXTINF:0,LA: Fox Sports Colombia HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116146.m3u8
+#EXTINF:0,LA: FOX SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/108452.m3u8
+#EXTINF:0,LA: Fox Sports Premium HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68376.m3u8
+#EXTINF:0,LA: Futurama HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102068.m3u8
+#EXTINF:0,LA: FX HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68505.m3u8
+#EXTINF:0,LA: FX MOVIE HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68501.m3u8
+#EXTINF:0,LA: Gala TV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99781.m3u8
+#EXTINF:0,LA: GALAVISION HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68444.m3u8
+#EXTINF:0,LA: GAMA TV (Ecuador)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104211.m3u8
+#EXTINF:0,LA: GAMATV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77883.m3u8
+#EXTINF:0,LA: GAME OF THRONES
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101574.m3u8
+#EXTINF:0,LA: GARAGE TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68706.m3u8
+#EXTINF:0,LA: GARFIELD Y SUS AMIGOS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101575.m3u8
+#EXTINF:0,LA: GLITZ HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68532.m3u8
+#EXTINF:0,LA: Globovisi
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112211.m3u8
+#EXTINF:0,LA: Globovisión
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/71039.m3u8
+#EXTINF:0,LA: Gol TV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68443.m3u8
+#EXTINF:0,LA: Gol TV PERU
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/108450.m3u8
+#EXTINF:0,LA: Golden Edge TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68688.m3u8
+#EXTINF:0,LA: GOLDEN HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68601.m3u8
+#EXTINF:0,LA: GOLDEN PREMIER 2
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77774.m3u8
+#EXTINF:0,LA: GOLDEN PREMIER HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68600.m3u8
+#EXTINF:0,LA: GOLF CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68890.m3u8
+#EXTINF:0,LA: Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112213.m3u8
+#EXTINF:0,LA: H2
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68531.m3u8
+#EXTINF:0,LA: HBO 1
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68412.m3u8
+#EXTINF:0,LA: HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68442.m3u8
+#EXTINF:0,LA: HBO East FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77734.m3u8
+#EXTINF:0,LA: HBO Family FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68582.m3u8
+#EXTINF:0,LA: HBO HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77791.m3u8
+#EXTINF:0,LA: HBO Plus FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68441.m3u8
+#EXTINF:0,LA: HBO Plus West FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77731.m3u8
+#EXTINF:0,LA: HBO Signature FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68440.m3u8
+#EXTINF:0,LA: HBO Sub
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104852.m3u8
+#EXTINF:0,LA: HBO West FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77729.m3u8
+#EXTINF:0,LA: HEADLINE NEWS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116810.m3u8
+#EXTINF:0,LA: HEY ARNOLD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101576.m3u8
+#EXTINF:0,LA: History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68427.m3u8
+#EXTINF:0,LA: HOLA TV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68558.m3u8
+#EXTINF:0,LA: HTV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68530.m3u8
+#EXTINF:0,LA: HTV Music
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116149.m3u8
+#EXTINF:0,LA: I-SAT
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68529.m3u8
+#EXTINF:0,LA: IndiePlex FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102004.m3u8
+#EXTINF:0,LA: INSPECTOR GADGET
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101577.m3u8
+#EXTINF:0,LA: INTI
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68742.m3u8
+#EXTINF:0,LA: KING OF THE HILL
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101578.m3u8
+#EXTINF:0,LA: KOMBAT SPORT
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68476.m3u8
+#EXTINF:0,LA: La Ley del Corazon 24/7 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102013.m3u8
+#EXTINF:0,LA: La Ley del Corazon HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101561.m3u8
+#EXTINF:0,LA: LA PANTERA ROSA TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101579.m3u8
+#EXTINF:0,LA: LA VOZ DE MARIA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68705.m3u8
+#EXTINF:0,LA: LIFETIME HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68571.m3u8
+#EXTINF:0,LA: LIGA DE LA JUSTICIA ILIMITADA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101580.m3u8
+#EXTINF:0,LA: LN HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104847.m3u8
+#EXTINF:0,LA: Locomotion TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80161.m3u8
+#EXTINF:0,LA: LOONEY TUNES 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77827.m3u8
+#EXTINF:0,LA: LOS 3 CHIFLADOS 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77826.m3u8
+#EXTINF:0,LA: LOS PICAPIEDRA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101581.m3u8
+#EXTINF:0,LA: LOS SIMPSONS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101582.m3u8
+#EXTINF:0,LA: LOS SUPERSÓNICOS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101583.m3u8
+#EXTINF:0,LA: LOS TRES CHIFLADOS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101584.m3u8
+#EXTINF:0,LA: M DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68740.m3u8
+#EXTINF:0,LA: M PLUS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68739.m3u8
+#EXTINF:0,LA: MacGyver
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101562.m3u8
+#EXTINF:0,LA: MASCHIC HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68528.m3u8
+#EXTINF:0,LA: MAX
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68741.m3u8
+#EXTINF:0,LA: MAX PRIME
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68510.m3u8
+#EXTINF:0,LA: MAX PRIME ESTE
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68665.m3u8
+#EXTINF:0,LA: MAX UP HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77766.m3u8
+#EXTINF:0,LA: Mega HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77533.m3u8
+#EXTINF:0,LA: MEX Azteca 13
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78655.m3u8
+#EXTINF:0,LA: MEX AZTECA CINEMA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78656.m3u8
+#EXTINF:0,LA: Mi Musica
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/122038.m3u8
+#EXTINF:0,LA: Milenio TV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77738.m3u8
+#EXTINF:0,LA: Mir La TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112215.m3u8
+#EXTINF:0,LA: MLB NETWORK
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68492.m3u8
+#EXTINF:0,LA: MONTECARLO TV (Uruguay)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/118867.m3u8
+#EXTINF:0,LA: MoreMax FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102007.m3u8
+#EXTINF:0,LA: MovieMax FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77726.m3u8
+#EXTINF:0,LA: MoviePlex FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77725.m3u8
+#EXTINF:0,LA: MP
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116800.m3u8
+#EXTINF:0,LA: Mr. Bean HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102066.m3u8
+#EXTINF:0,LA: MTV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68684.m3u8
+#EXTINF:0,LA: MTV Hits HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77787.m3u8
+#EXTINF:0,LA: Multimedios HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68498.m3u8
+#EXTINF:0,LA: Multimedios Monterrey HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80169.m3u8
+#EXTINF:0,LA: Music Top HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77759.m3u8
+#EXTINF:0,LA: MX AZTECA MUNDO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78683.m3u8
+#EXTINF:0,LA: NARUTO 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77825.m3u8
+#EXTINF:0,LA: NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68398.m3u8
+#EXTINF:0,LA: NAT GEO Kids HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68525.m3u8
+#EXTINF:0,LA: NAT GEO Wild HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68397.m3u8
+#EXTINF:0,LA: NBA TV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68396.m3u8
+#EXTINF:0,LA: NBC UNIVERSO HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68438.m3u8
+#EXTINF:0,LA: Neox TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80158.m3u8
+#EXTINF:0,LA: NEX TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77804.m3u8
+#EXTINF:0,LA: NEXT TV (Panama)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/118872.m3u8
+#EXTINF:0,LA: NIC Canal 6
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97697.m3u8
+#EXTINF:0,LA: NIC Canal 12
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97695.m3u8
+#EXTINF:0,LA: NIC CANAL 13
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97696.m3u8
+#EXTINF:0,LA: NICK 2 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68590.m3u8
+#EXTINF:0,LA: NICK JR HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68394.m3u8
+#EXTINF:0,LA: Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68568.m3u8
+#EXTINF:0,LA: NICKTOONS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78657.m3u8
+#EXTINF:0,LA: NIU HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/94275.m3u8
+#EXTINF:0,LA: Noticias NTN24
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116138.m3u8
+#EXTINF:0,LA: NTN 24
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112218.m3u8
+#EXTINF:0,LA: ORBE 21
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68888.m3u8
+#EXTINF:0,LA: OROMAR TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68737.m3u8
+#EXTINF:0,LA: OuterMax FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77724.m3u8
+#EXTINF:0,LA: PAN 2
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77861.m3u8
+#EXTINF:0,LA: PAN 4
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77860.m3u8
+#EXTINF:0,LA: PAN 13
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77862.m3u8
+#EXTINF:0,LA: PAN MAS TV 23
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77798.m3u8
+#EXTINF:0,LA: PAN TV MAX
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77803.m3u8
+#EXTINF:0,LA: PAN TVN
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68870.m3u8
+#EXTINF:0,LA: PARAMOUNT CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68393.m3u8
+#EXTINF:0,LA: PASIONES HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68523.m3u8
+#EXTINF:0,LA: PAT Santa Cruz (Bolivia)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80145.m3u8
+#EXTINF:0,LA: Patoaventuras HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102062.m3u8
+#EXTINF:0,LA: Peliculas 24/7 FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101980.m3u8
+#EXTINF:0,LA: Peliculas Dominicanas
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102053.m3u8
+#EXTINF:0,LA: Pink Panther 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77817.m3u8
+#EXTINF:0,LA: Pocoyo 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102012.m3u8
+#EXTINF:0,LA: POKEMON 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77823.m3u8
+#EXTINF:0,LA: PROMAR (VENEZUELA)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99847.m3u8
+#EXTINF:0,LA: PROYECTO 40
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97585.m3u8
+#EXTINF:0,LA: RANMA 1/2 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77822.m3u8
+#EXTINF:0,LA: RANMA 2/2 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/107433.m3u8
+#EXTINF:0,LA: Rede Meio Norte
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68836.m3u8
+#EXTINF:0,LA: REDE S?CULO 21
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68835.m3u8
+#EXTINF:0,LA: Repretel 4
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77853.m3u8
+#EXTINF:0,LA: Repretel 6
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77852.m3u8
+#EXTINF:0,LA: Repretel 11
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77854.m3u8
+#EXTINF:0,LA: RetroPlex FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77723.m3u8
+#EXTINF:0,LA: RITMOZON LATINO HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68365.m3u8
+#EXTINF:0,LA: RT en vivo
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112219.m3u8
+#EXTINF:0,LA: RTP7 ASTURIAS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/115032.m3u8
+#EXTINF:0,LA: RTS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68728.m3u8
+#EXTINF:0,LA: RTS (Ecuador)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77742.m3u8
+#EXTINF:0,LA: Rusia Today Espanol
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104856.m3u8
+#EXTINF:0,LA: SAL CANAL 2
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104862.m3u8
+#EXTINF:0,LA: SAL CANAL 4
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104864.m3u8
+#EXTINF:0,LA: SAL CANAL 6
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104863.m3u8
+#EXTINF:0,LA: SAL CANAL 12
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104861.m3u8
+#EXTINF:0,LA: SAL Canal 19
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78679.m3u8
+#EXTINF:0,LA: SAL Canal 21
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78678.m3u8
+#EXTINF:0,LA: SAL VTV Canal 35
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78680.m3u8
+#EXTINF:0,LA: SBT
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68842.m3u8
+#EXTINF:0,LA: SCOOBY DOO 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77821.m3u8
+#EXTINF:0,LA: Se La TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/112220.m3u8
+#EXTINF:0,LA: SEMBRADOR
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68877.m3u8
+#EXTINF:0,LA: Sevilla FC TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/115033.m3u8
+#EXTINF:0,LA: Showtime Beyond FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77722.m3u8
+#EXTINF:0,LA: Showtime East HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77721.m3u8
+#EXTINF:0,LA: SHOWTIME FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77719.m3u8
+#EXTINF:0,LA: Showtime West HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77718.m3u8
+#EXTINF:0,LA: SONY HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68481.m3u8
+#EXTINF:0,LA: SPACE HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68383.m3u8
+#EXTINF:0,LA: SPEED RACER (METEORO)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101587.m3u8
+#EXTINF:0,LA: SPORT TV CONO SUR 1
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68449.m3u8
+#EXTINF:0,LA: SPORT TV CONO SUR 2
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68448.m3u8
+#EXTINF:0,LA: SPORT TV CONO SUR 3
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68447.m3u8
+#EXTINF:0,LA: SPORT TV CONO SUR 4
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68446.m3u8
+#EXTINF:0,LA: SPORT TV CONO SUR 5
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68445.m3u8
+#EXTINF:0,LA: Starz Black FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101992.m3u8
+#EXTINF:0,LA: Starz Cinema FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101995.m3u8
+#EXTINF:0,LA: Starz Comedy FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77714.m3u8
+#EXTINF:0,LA: Starz East FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77713.m3u8
+#EXTINF:0,LA: Starz Edge FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77712.m3u8
+#EXTINF:0,LA: Starz Encore Action
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77711.m3u8
+#EXTINF:0,LA: Starz Encore Black FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77710.m3u8
+#EXTINF:0,LA: Starz Encore Classic FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77709.m3u8
+#EXTINF:0,LA: Starz Encore Family FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77708.m3u8
+#EXTINF:0,LA: Starz Encore FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77706.m3u8
+#EXTINF:0,LA: Starz Encore Suspense FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77705.m3u8
+#EXTINF:0,LA: Starz Encore Western FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102017.m3u8
+#EXTINF:0,LA: Starz Family HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77703.m3u8
+#EXTINF:0,LA: Starz FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77702.m3u8
+#EXTINF:0,LA: Starz Kids & Family FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77701.m3u8
+#EXTINF:0,LA: Starz West FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77700.m3u8
+#EXTINF:0,LA: STUDIO UNIVERSAL
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68520.m3u8
+#EXTINF:0,LA: SUN Channel
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68577.m3u8
+#EXTINF:0,LA: SUNDANCE CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68392.m3u8
+#EXTINF:0,LA: SUPER CAMPEONES 24/7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77820.m3u8
+#EXTINF:0,LA: SUR America TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97709.m3u8
+#EXTINF:0,LA: SUR ATV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97710.m3u8
+#EXTINF:0,LA: SUR Bang TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97712.m3u8
+#EXTINF:0,LA: SUR C9N
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97713.m3u8
+#EXTINF:0,LA: SUR Canal Claro
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97715.m3u8
+#EXTINF:0,LA: SUR Canal J
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97716.m3u8
+#EXTINF:0,LA: SUR Canal Uno
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97717.m3u8
+#EXTINF:0,LA: SUR Capital TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97719.m3u8
+#EXTINF:0,LA: SUR Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97720.m3u8
+#EXTINF:0,LA: SUR Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97723.m3u8
+#EXTINF:0,LA: SUR Cinemax
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97725.m3u8
+#EXTINF:0,LA: SUR Ciudadano TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97726.m3u8
+#EXTINF:0,LA: SUR Claro Cinema
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97727.m3u8
+#EXTINF:0,LA: SUR Claromusic
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97728.m3u8
+#EXTINF:0,LA: SUR ClaroSports
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97729.m3u8
+#EXTINF:0,LA: SUR Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97734.m3u8
+#EXTINF:0,LA: SUR Disney XD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97736.m3u8
+#EXTINF:0,LA: SUR Ecuador TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97737.m3u8
+#EXTINF:0,LA: SUR Enlace
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97739.m3u8
+#EXTINF:0,LA: SUR EsneTV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97740.m3u8
+#EXTINF:0,LA: SUR ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/87989.m3u8
+#EXTINF:0,LA: SUR Fox Channel
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/87990.m3u8
+#EXTINF:0,LA: SUR Fox Life
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/87991.m3u8
+#EXTINF:0,LA: SUR Fox Sport PY
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/87995.m3u8
+#EXTINF:0,LA: SUR Frecuencia Latina
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/87997.m3u8
+#EXTINF:0,LA: SUR FX
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/87998.m3u8
+#EXTINF:0,LA: SUR FX Movies
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/87999.m3u8
+#EXTINF:0,LA: SUR GamaTV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88000.m3u8
+#EXTINF:0,LA: SUR HBO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88001.m3u8
+#EXTINF:0,LA: SUR History Channel
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97741.m3u8
+#EXTINF:0,LA: SUR Home & Health
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88006.m3u8
+#EXTINF:0,LA: SUR I-Sat
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97742.m3u8
+#EXTINF:0,LA: SUR La Tele
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97744.m3u8
+#EXTINF:0,LA: SUR Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88013.m3u8
+#EXTINF:0,LA: SUR Nick Junior
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88015.m3u8
+#EXTINF:0,LA: SUR Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88016.m3u8
+#EXTINF:0,LA: SUR Panamericana TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88017.m3u8
+#EXTINF:0,LA: SUR Paraguay TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88018.m3u8
+#EXTINF:0,LA: SUR Paravision
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88019.m3u8
+#EXTINF:0,LA: SUR Red Guarani
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88020.m3u8
+#EXTINF:0,LA: SUR RPC
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88021.m3u8
+#EXTINF:0,LA: SUR RTS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88022.m3u8
+#EXTINF:0,LA: SUR SNT
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88023.m3u8
+#EXTINF:0,LA: SUR Sony
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88024.m3u8
+#EXTINF:0,LA: SUR Space
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88025.m3u8
+#EXTINF:0,LA: SUR Sur TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88026.m3u8
+#EXTINF:0,LA: SUR TBS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88027.m3u8
+#EXTINF:0,LA: SUR TC Television
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88028.m3u8
+#EXTINF:0,LA: SUR TCM
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88029.m3u8
+#EXTINF:0,LA: SUR Teleamazonas
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88030.m3u8
+#EXTINF:0,LA: SUR Telecaribe
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88032.m3u8
+#EXTINF:0,LA: SUR Telefuturo
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88034.m3u8
+#EXTINF:0,LA: SUR Telepacifico
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88035.m3u8
+#EXTINF:0,LA: SUR TNT
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88036.m3u8
+#EXTINF:0,LA: SUR TVE
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88037.m3u8
+#EXTINF:0,LA: SUR Unicanal
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88039.m3u8
+#EXTINF:0,LA: SUR Universal
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88040.m3u8
+#EXTINF:0,LA: SUR Win Sport
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88041.m3u8
+#EXTINF:0,LA: SUR Zona Latina
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/88042.m3u8
+#EXTINF:0,LA: SYFY HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68508.m3u8
+#EXTINF:0,LA: TBS HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68507.m3u8
+#EXTINF:0,LA: TC ECUADOR
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/87940.m3u8
+#EXTINF:0,LA: TCM HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68519.m3u8
+#EXTINF:0,LA: TDN DEPORTES HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68409.m3u8
+#EXTINF:0,LA: TELE AMAZONAS (Ecuador)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104214.m3u8
+#EXTINF:0,LA: TELEAMAZONAS HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68725.m3u8
+#EXTINF:0,LA: TELEANTIOQUIA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116812.m3u8
+#EXTINF:0,LA: TELECAFE
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116813.m3u8
+#EXTINF:0,LA: TELEFE HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68589.m3u8
+#EXTINF:0,LA: TELEHIT HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68391.m3u8
+#EXTINF:0,LA: Telemicro Canal 5
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80166.m3u8
+#EXTINF:0,LA: Telemundo 47 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/102061.m3u8
+#EXTINF:0,LA: Telemundo East
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116152.m3u8
+#EXTINF:0,LA: Telemundo HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68518.m3u8
+#EXTINF:0,LA: Telemundo Internacional
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116150.m3u8
+#EXTINF:0,LA: Telemundo Las Vegas
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/106666.m3u8
+#EXTINF:0,LA: Telemundo USA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/113970.m3u8
+#EXTINF:0,LA: Telemundo West
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116151.m3u8
+#EXTINF:0,LA: TELENOVELAS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68692.m3u8
+#EXTINF:0,LA: TELERED
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68758.m3u8
+#EXTINF:0,LA: TELERITMO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97589.m3u8
+#EXTINF:0,LA: TELESUR (VENEZUELA)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99848.m3u8
+#EXTINF:0,LA: Teletica 7
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77888.m3u8
+#EXTINF:0,LA: TELEVEN
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68887.m3u8
+#EXTINF:0,LA: TELPIN
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68699.m3u8
+#EXTINF:0,LA: Telpin TV Canal 2 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80154.m3u8
+#EXTINF:0,LA: THE BIG BANG THEORY
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101588.m3u8
+#EXTINF:0,LA: THUNDERCATS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101589.m3u8
+#EXTINF:0,LA: TLC
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68517.m3u8
+#EXTINF:0,LA: TLCO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116814.m3u8
+#EXTINF:0,LA: TLT (VENEZUELA)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99852.m3u8
+#EXTINF:0,LA: TM (PANAMA)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99864.m3u8
+#EXTINF:0,LA: TNT HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68390.m3u8
+#EXTINF:0,LA: TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68382.m3u8
+#EXTINF:0,LA: TNT SPORTS FHD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/108451.m3u8
+#EXTINF:0,LA: TOM AND JERRY
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101590.m3u8
+#EXTINF:0,LA: TOONCAST HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68515.m3u8
+#EXTINF:0,LA: Travel and Living Channel
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78681.m3u8
+#EXTINF:0,LA: TRAVEL HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68460.m3u8
+#EXTINF:0,LA: Tru TV HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68621.m3u8
+#EXTINF:0,LA: TUMUSICA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99795.m3u8
+#EXTINF:0,LA: TV All Sports
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/94277.m3u8
+#EXTINF:0,LA: TV CHILE
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/108446.m3u8
+#EXTINF:0,LA: TV Faap
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68831.m3u8
+#EXTINF:0,LA: TV Geral
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68829.m3u8
+#EXTINF:0,LA: TV MARTI (Cuba)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99841.m3u8
+#EXTINF:0,LA: TV MAS VERACRUZ
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68757.m3u8
+#EXTINF:0,LA: TV MAX PANAMA
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68575.m3u8
+#EXTINF:0,LA: TV UNAM
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68756.m3u8
+#EXTINF:0,LA: TV UNO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/123233.m3u8
+#EXTINF:0,LA: TV5 MONDE LATINO
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/104860.m3u8
+#EXTINF:0,LA: TyC Sports HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77765.m3u8
+#EXTINF:0,LA: UFC
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/111424.m3u8
+#EXTINF:0,LA: UFC Network
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116157.m3u8
+#EXTINF:0,LA: Unicable HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68462.m3u8
+#EXTINF:0,LA: Unicanal
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68696.m3u8
+#EXTINF:0,LA: Unicanal (PY)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116119.m3u8
+#EXTINF:0,LA: UNIMAS HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68459.m3u8
+#EXTINF:0,LA: UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68506.m3u8
+#EXTINF:0,LA: Univision (Miami)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77762.m3u8
+#EXTINF:0,LA: UNIVISION DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68463.m3u8
+#EXTINF:0,LA: Univision HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68436.m3u8
+#EXTINF:0,LA: Univision HD (Puerto Rico)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/80164.m3u8
+#EXTINF:0,LA: Univision Network HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68689.m3u8
+#EXTINF:0,LA: UNIVISION TDN HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/77811.m3u8
+#EXTINF:0,LA: Univision West
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116154.m3u8
+#EXTINF:0,LA: UNO HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68695.m3u8
+#EXTINF:0,LA: VENEVISION
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68886.m3u8
+#EXTINF:0,LA: Venevision (Venezuela)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116124.m3u8
+#EXTINF:0,LA: VENEVISION PLUS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68721.m3u8
+#EXTINF:0,LA: Venevision Plus (Venezuela)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/116123.m3u8
+#EXTINF:0,LA: VH1 CLASSICS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68823.m3u8
+#EXTINF:0,LA: VH1 HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68513.m3u8
+#EXTINF:0,LA: VH1 MEGAHITS
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/97679.m3u8
+#EXTINF:0,LA: Via X
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/78682.m3u8
+#EXTINF:0,LA: VPI Venezolano
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68566.m3u8
+#EXTINF:0,LA: VTV (URUGUAY)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/99855.m3u8
+#EXTINF:0,LA: VTV+ (Uruguay)
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/118868.m3u8
+#EXTINF:0,LA: Warner Bros HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68428.m3u8
+#EXTINF:0,LA: WARNER HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/122041.m3u8
+#EXTINF:0,LA: WIN SPORT HD
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68368.m3u8
+#EXTINF:0,LA: WOW TV
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/68693.m3u8
+#EXTINF:0,LA: X-MEN
+#EXTVLCOPT:network-caching=1000
+http://niobzca.cf:8080/live/simiptv200u/simiptv200p/101591.m3u8
+#EXTINF:0,ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3247.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3248.m3u8
+#EXTINF:0,A&E
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3246.m3u8
+#EXTINF:0,BANDAMAX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3086.m3u8
+#EXTINF:0,BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3085.m3u8
+#EXTINF:0,BABY FIRST
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2958.m3u8
+#EXTINF:0,UNIVISION HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3796.m3u8
+#EXTINF:0,UNIVISION MIAMI
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3177.m3u8
+#EXTINF:0,UNIVISION NEW YORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2021.m3u8
+#EXTINF:0,TELEMUNDO HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3794.m3u8
+#EXTINF:0,TELEMUNDO 47
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3785.m3u8
+#EXTINF:0,TELEMUNDO NY
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3202.m3u8
+#EXTINF:0,MTV HITS
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3191.m3u8
+#EXTINF:0,COL - CITYTV
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/1987.m3u8
+#EXTINF:0,COL - CARACOL (720 HD)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3213.m3u8
+#EXTINF:0,LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3073.m3u8
+#EXTINF:0,I-SAT
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3074.m3u8
+#EXTINF:0,HISTORY
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3234.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3199.m3u8
+#EXTINF:0,HBO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3198.m3u8
+#EXTINF:0,HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3197.m3u8
+#EXTINF:0,HBO PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/4003.m3u8
+#EXTINF:0,HBO ESTE HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3973.m3u8
+#EXTINF:0,HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/4017.m3u8
+#EXTINF:0,ESPN PLUS SUR
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7940.m3u8
+#EXTINF:0,CHILE - CDF HD (1080 HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/16137.m3u8
+#EXTINF:0,CHILE - CDF HD (720HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3052.m3u8
+#EXTINF:0,CHILE - CDF HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3586.m3u8
+#EXTINF:0,CHILE - CDF SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/16138.m3u8
+#EXTINF:0,CR - TICAVISION HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3193.m3u8
+#EXTINF:0,FOX PREMIUM MOVIES
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3266.m3u8
+#EXTINF:0,BEIN Ñ (1080 HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3747.m3u8
+#EXTINF:0,TDN (1080 HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3963.m3u8
+#EXTINF:0,UNIVISION TDN (720 HD)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/4117.m3u8
+#EXTINF:0,UNIVISION DEPORTES (1080 HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3962.m3u8
+#EXTINF:0,UNIVISION TDN USA
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3751.m3u8
+#EXTINF:0,USA - PAC 12 LOS ANGELES
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3364.m3u8
+#EXTINF:0,USA - PAC 12 WASHINGTON
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3373.m3u8
+#EXTINF:0,USA - PAC 12 NETWORK
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3375.m3u8
+#EXTINF:0,USA - PAC 12 OREGON
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3374.m3u8
+#EXTINF:0,USA - PAC 12 ARIZONA
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3799.m3u8
+#EXTINF:0,USA - PAC 12 BAY AREA
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3368.m3u8
+#EXTINF:0,USA - PAC 12 MOUNTAIN
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3369.m3u8
+#EXTINF:0,USA - ESPN
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3371.m3u8
+#EXTINF:0,USA - ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3372.m3u8
+#EXTINF:0,FOX DEPORTES USA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3753.m3u8
+#EXTINF:0,ESPN DEPORTES USA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3613.m3u8
+#EXTINF:0,DIRECTV SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7863.m3u8
+#EXTINF:0,DIRECTV SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/9565.m3u8
+#EXTINF:0,DIRECTV SPORTS PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/8520.m3u8
+#EXTINF:0,ECU - ECUAVISA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3433.m3u8
+#EXTINF:0,ECU - ECUAVISA
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/8084.m3u8
+#EXTINF:0,ECU - CANAL UNO HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3436.m3u8
+#EXTINF:0,ECU - CANAL UNO
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/8083.m3u8
+#EXTINF:0,ECU - CNT SPORTS / GOL TV FHD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7471.m3u8
+#EXTINF:0,ECU - CNT SPORTS / GOL TV HD PPV 2
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7472.m3u8
+#EXTINF:0,ECU - TELEAMAZONAS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7532.m3u8
+#EXTINF:0,ECU - TELEAMAZONAS
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3428.m3u8
+#EXTINF:0,ECU - GAMA TV HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3432.m3u8
+#EXTINF:0,ECU - GAMA TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/8085.m3u8
+#EXTINF:0,ECU - OROMAR HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7535.m3u8
+#EXTINF:0,ECU - OROMAR TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3431.m3u8
+#EXTINF:0,ECU - RTS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7534.m3u8
+#EXTINF:0,ECU - RTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3430.m3u8
+#EXTINF:0,ECU - TC HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7533.m3u8
+#EXTINF:0,ECU - TC TELEVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3429.m3u8
+#EXTINF:0,ECU - ECUADOR TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3434.m3u8
+#EXTINF:0,FOX SPORTS MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3267.m3u8
+#EXTINF:0,FOX SPORTS 2 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3268.m3u8
+#EXTINF:0,FOX SPORTS 3 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/4008.m3u8
+#EXTINF:0,ESPN MX HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3258.m3u8
+#EXTINF:0,ESPN MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3178.m3u8
+#EXTINF:0,ESPN 2 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3259.m3u8
+#EXTINF:0,ESPN 3 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3260.m3u8
+#EXTINF:0,ESPN PLUS MX
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/4120.m3u8
+#EXTINF:0,CHILE - CDF ESTADIO
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/6979.m3u8
+#EXTINF:0,CHILE - MEGA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2148.m3u8
+#EXTINF:0,CHILE - MEGA
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3343.m3u8
+#EXTINF:0,CHILE - CANAL 13 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/6847.m3u8
+#EXTINF:0,CHILE - CANAL 13
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3853.m3u8
+#EXTINF:0,CHILE - TVN HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2151.m3u8
+#EXTINF:0,CHILE - TVN
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3592.m3u8
+#EXTINF:0,CHILE - CHILEVISION  HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2147.m3u8
+#EXTINF:0,CHILE - CHILEVISION
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3591.m3u8
+#EXTINF:0,CHILE - FOX SPORTS 1 HD (1080 HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3611.m3u8
+#EXTINF:0,FOX SPORTS 1 CHILE HD (720)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3612.m3u8
+#EXTINF:0,FOX SPORTS PREMIUM HD**
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2963.m3u8
+#EXTINF:0,TNT SPORTS HD**
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2957.m3u8
+#EXTINF:0,FOX SPORTS 1 SUR
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2047.m3u8
+#EXTINF:0,FOX SPORTS 2 SUR HD (1080 HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2046.m3u8
+#EXTINF:0,FOX SPORTS 3 SUR HD (1080 HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2045.m3u8
+#EXTINF:0,ESPN SUR
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3614.m3u8
+#EXTINF:0,ESPN 2 SUR
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3616.m3u8
+#EXTINF:0,ESPN 3 SUR
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3615.m3u8
+#EXTINF:0,TYC SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3759.m3u8
+#EXTINF:0,UNIMAS HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3795.m3u8
+#EXTINF:0,NATGEO MUNDO
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3774.m3u8
+#EXTINF:0,RT ESPAÑOL
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2064.m3u8
+#EXTINF:0,LAT [USA] - DW LATINOAMERICA
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2102.m3u8
+#EXTINF:0,UFC FIGHT LATINOAMERICA
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3421.m3u8
+#EXTINF:0,ARG - FOX SPORTS PREMIUM HD**
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/8330.m3u8
+#EXTINF:0,ARG - TNT SPORTS HD**
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/8331.m3u8
+#EXTINF:0,ARG - EL TRECE HD**
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/17855.m3u8
+#EXTINF:0,ARG - CANAL 13 (OPC 2)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/8183.m3u8
+#EXTINF:0,ARG - EL TRECE HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/7431.m3u8
+#EXTINF:0,ARG - TELEFE
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3439.m3u8
+#EXTINF:0,ARG - TELEFE (OPC. 2)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/17901.m3u8
+#EXTINF:0,ARG - TV PUBLICA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3417.m3u8
+#EXTINF:0,ARG - TV PUBLICA HD (op.2)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3440.m3u8
+#EXTINF:0,ARG - TYC SPORTS
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2961.m3u8
+#EXTINF:0,GOL TV (1080 HQ)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3755.m3u8
+#EXTINF:0,WIN SPORTS HD (720)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3057.m3u8
+#EXTINF:0,EVENTOS ESPECIALES AQUA [McGregor vs Khabib]
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/16143.m3u8
+#EXTINF:0,CR - TELEUNO
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2043.m3u8
+#EXTINF:0,640x360,b:2.jpg" group-title="CENTROAMERICA",CR - COLOSAL TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2042.m3u8
+#EXTINF:0,URU - CANAL 10 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3058.m3u8
+#EXTINF:0,URU - CANAL 10 HD (720)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3344.m3u8
+#EXTINF:0,URU - VTV HD (1080)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3802.m3u8
+#EXTINF:0,URU - VTV HD (720)
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3599.m3u8
+#EXTINF:0,URU - VTV SD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3598.m3u8
+#EXTINF:0,URU - TELE12 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3620.m3u8
+#EXTINF:0,URU - MONTECARLO TV HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/8334.m3u8
+#EXTINF:0,URU - MONTECARLO TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2953.m3u8
+#EXTINF:0,URU - DIRECTV URUGUAY
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2041.m3u8
+#EXTINF:0,URU - FOX SPORTS URUGUAY HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3621.m3u8
+#EXTINF:0,ARG - AMERICA HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/27.m3u8
+#EXTINF:0,ARG - AMERICA TV.
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2040.m3u8
+#EXTINF:0,ARG - EL NUEVE
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3438.m3u8
+#EXTINF:0,ARG - MULTIVISION CANAL 9 SALTA
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3443.m3u8
+#EXTINF:0,ARG - GOL TV
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2039.m3u8
+#EXTINF:0,ARG - TN HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/2959.m3u8
+#EXTINF:0,ARG - DEPORTV
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/4114.m3u8
+#EXTINF:0,ES - ANDALUCIA TURISMO
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3610.m3u8
+#EXTINF:0,ARG - C5N
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3441.m3u8
+#EXTINF:0,ARG - CANAL 26
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3442.m3u8
+#EXTINF:0,ARG -CANAL 2 HD TELEPIN
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/4188.m3u8
+#EXTINF:0,ARG - TLX HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3437.m3u8
+#EXTINF:0,ARG - A24
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3359.m3u8
+#EXTINF:0,ARG - CANAL RURAL
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3396.m3u8
+#EXTINF:0,BEIN SPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3407.m3u8
+#EXTINF:0,BEIN SPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3406.m3u8
+#EXTINF:0,BEIN SPORT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3405.m3u8
+#EXTINF:0,BEIN SPORT 4 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3404.m3u8
+#EXTINF:0,BEIN SPORT 5 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3403.m3u8
+#EXTINF:0,BEIN SPORT 6 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3402.m3u8
+#EXTINF:0,BEIN SPORT 7 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3401.m3u8
+#EXTINF:0,BEIN SPORT 8 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3409.m3u8
+#EXTINF:0,BEIN SPORT 9 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3408.m3u8
+#EXTINF:0,BEIN SPORT 10 HD
+#EXTVLCOPT:network-caching=1000
+http://tv.nousiptv.com:25462/live/ximena/ximena/3410.m3u8
+#EXTINF:0, **CANALES DE NICARAGUA**
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-1100/playlist.m3u8
+#EXTINF:0, canal 12 nicaragua
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-12/playlist.m3u8
+#EXTINF:0, canal 13 nicaragua
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-13/playlist.m3u8
+#EXTINF:0, canal 15
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-15/playlist.m3u8
+#EXTINF:0, canal 17
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-17/playlist.m3u8
+#EXTINF:0, Canal 2
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-2/playlist.m3u8
+#EXTINF:0, canal 4
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-4/playlist.m3u8
+#EXTINF:0, canal 6
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-6/playlist.m3u8
+#EXTINF:0, canal 9
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-9/playlist.m3u8
+#EXTINF:0, canal 10
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-10/playlist.m3u8
+#EXTINF:0, canal 11
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-11/playlist.m3u8
+#EXTINF:0, canal 8
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-8/playlist.m3u8
+#EXTINF:0, CDNN 23
+#EXTVLCOPT:network-caching=1000
+http://138.117.4.70:8079/streams/d/Canal-23/playlist.m3u8
+#EXTINF:0, CANAL BHTV
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/media_w554966584.m3u8
+#EXTINF:0, MICRO VISION
+http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
+#EXTINF:0,Impact Wrestling
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/564b9ed65fbbbca07e8d09d2/featuredImage.jpg",PLUTO TV MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/561d7d484dc7c8770484914a/featuredImage.jpg",ACTION MOVIES
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0, SIEMPRE LOS MEJORES CANALES
+http://landiptv.live:8080/live/ricardo/ricardo/
+#EXTINF:1, Micro VISION
+http://190.103.183.24:1935/live/MicroHD/media_w1864019893.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUh9igN.png" group-title="COLOMBIA", RCN | SD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gwf0xO.png" group-title="ARGENTINA", Canal 4 Jujuy | HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0,MX: CANAL 22
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+#EXTINF:-1,FUEGOTV
+http://184.173.181.2:1935/8020/8020/playlist.m3u8
+#EXTINF:-1, FOX CINEMA 
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1, FOX MOVIES
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1, Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:0,Sony Movie Channel
+#EXTVLCOPT:network-caching=1000
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,MSNBC (HD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,MSNBC (SD)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1,MSNBC (SD)*
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1896_av-b.m3u8
+#EXTINF:0,ABC News
+#EXTVLCOPT:network-caching=1000
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:0,ABC 7 News (Sarasota)
+#EXTVLCOPT:network-caching=1000
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:0,ABC News 9 (Orlando)
+#EXTVLCOPT:network-caching=1000
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+#EXTINF:0,CBS 2 (Salt Lake City)
+#EXTVLCOPT:network-caching=1000
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0,CBS 4 News (Indianapolis)
+#EXTVLCOPT:network-caching=1000
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:0,CBS 5 News (Colorado)
+#EXTVLCOPT:network-caching=1000
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0,Channel 11 News WPXI (Pittsburgh)
+#EXTVLCOPT:network-caching=1000
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:0,KOMO 4 News (Seattle)
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:0,2018-09-12 03:31:49 1536723109815118
+#EXTVLCOPT:network-caching=1000
+http://krgv-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:0,NBC 10 News (Philadelphia)
+#EXTVLCOPT:network-caching=1000
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+#EXTINF:0,NBC 11 News (Bay Area)
+#EXTVLCOPT:network-caching=1000
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:0,NBC 4 News (Washington DC)
+#EXTVLCOPT:network-caching=1000
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:0,NBC 5 News (Chicago)
+#EXTVLCOPT:network-caching=1000
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1, hbo2 dual (eng esp)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1, ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1, Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1, Fight time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1, AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1, Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1, cbs
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+#EXTINF:-1, fox premium comedy (eng)
+http://161.0.157.9/PLTV/88888888/224/3221226800/index.m3u8
+#EXTINF:-1, Combat Go
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+#EXTINF:-1, Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1, NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:0,canales cristianos
+https://15-lvl3-pdl.vimeocdn.com/01/3458/3/92293374/245393768
+#EXTINF:0,canales de ***ixtla arreola****
+https://15-lvl3-pdl.vimeocdn.com/01/3458/3/92293374/245393768
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8pbx0w7B8m0ymgPYU0H1KC2dNDOx48Yn24HPwTFe00JC7ym8Nrs6XbpY6X0INKYLqVSG=w300"group-title="Canales",IMPACTOVISION
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+#EXTINF:0, EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1749069089.m3u8
+#EXTINF:-0,SOBRENATURAL
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:0,gracia tv.
+http://v3.tustreaming.cl/graciatv/live1/tracks-v1a1/index.m3u8
+#EXTINF:0, precencia tv
+http://radiosinlimite.net:1935/presenciaonline/presenciaonline/playlist.m3u8
+#EXTINF:0, Dios te ve
+http://livehn.amixhn.com/hls/diosteve.m3u8
+#EXTINF:-1, Enlace Juvenil
+http://api.new.livestream.com/accounts/4885740/events/2294538/live.m3u8
+#EXTINF:-1, ReformaTV
+http://livestreamcdn.net:1935/ReformaTV/smil:ReformaTV.smil/chunklist_w1662381270_b1300000_slen.m3u8
+#EXTINF:-1, Vision Celestial
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1874831699.m3u8
+#EXTINF:-1, Bethel tv
+http://api.new.livestream.com/accounts/16199200/events/4590066/live.m3u8
+#EXTINF:0, TEVE VIDA
+http://205.164.56.130:1935/francescojavier522/francescojavier522/playlist.m3u8
+#EXTINF:0,genesis tv.
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+#EXTINF:0, el mesisas tv.
+http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8
+#EXTINF:0, CANAL 41 HD UNCION TV
+https://59f2354c05961.streamlock.net:1443/unciontv/_definst_/unciontv/playlist.m3u8
+#EXTINF:0, CANAL DE AYUDA
+http://ca1.ministeriotv.com:1935/280/280/chunklist_w541714461.m3u8
+#EXTINF:0, Aliento vision.
+http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:0, Aliento vision.
+http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
+#EXTINF:0,Taber tv
+rtmp://streamingcontrol.com/tbbcentral//l1v1.sdp
+#EXTINF:-1, ABN 
+https://s3.abntelevision.com/avivamiento/avivamiento/playlist.m3u8
+#EXTINF:0, ONDAS DE AMOR TV
+http://st2.worldkast.com/8008/8008/playlist.m3u8
+#EXTINF:-1, TELEMILENIO
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:0, COMUNION TV
+http://50.30.37.36:1935/live/stream/media_w307266986_playlist.m3u8
+#EXTINF:0, SALVACION TV
+http://salvaciontv-live.ministeriosonline.com/1019_push_524/3e3b3739c4a53d9e572359612caf8ee3.sdp/index.m3u8
+#EXTINF:0, CANAL TELEFAMILIA
+https://5b34f8d085ada.streamlock.net:1443/canal26/_definst_/canal26/playlist.m3u8
+#EXTINF:0, MINISTERIO  JOSUE TV
+http://va1.ministeriotv.com:1936/264/stream/playlist.m3u8
+#EXTINF:0, RADIO RELAMPAGO
+http://ph1.ministeriotv.com:1936/20/stream/playlist.m3u8
+#EXTINF:0, RADIO IMPACTO DE DIOS
+http://va1.ministeriotv.com:1936/279/stream/playlist.m3u8
+#EXTINF:0, RADIO 105.5
+http://va1.ministeriotv.com:1936/39/stream/playlist.m3u8
+#EXTINF:0, PALABRA DE DIOS SIN LEVADURA
+http://ph1.ministeriotv.com:1936/49/stream/playlist.m3u8
+#EXTINF:0, TU ALTAR RADIO 105.7
+http://ph1.ministeriotv.com:1936/56/stream/playlist.m3u8
+#EXTINF:0, REMA TV
+http://va1.ministeriotv.com:1936/64/stream/playlist.m3u8
+#EXTINF:0, IGLESIA TABERNACULO DE REUNION
+http://va1.ministeriotv.com:1936/81/stream/playlist.m3u8
+#EXTINF:0, RADIO Y TV CRISTO SANA Y RESTAURA
+http://ph1.ministeriotv.com:1936/1625/stream/playlist.m3u8?ixtla
+#EXTINF:0, RADIO NUEVA VIDA
+http://radio.ministeriotv.com:8042/stream.mp3
+#EXTINF:0, RADIO FUEGO ABRAZADOR
+http://ph1.ministeriotv.com:1936/100//stream/playlist.m3u8?ixtla
+#EXTINF:0, IGLESIA PUENTE DE SALVACION
+http://ph1.ministeriotv.com:1936/1637//stream/playlist.m3u8?ixtla
+#EXTINF:0, LLBN LATINO
+rtmp://cp45648.live.edgefcs.net/live/T01587-latino@94847?ixtla
+#EXTINF:0, TNE TV
+http://video.crearchile.tv:8080/live/tnetv.smil/playlist.m3u8
+#EXTINF:0, TV CRET SEÑAL DE BENDICION
+http://radiocret.net:1935/live/tvcret.sdp/media_playlist.m3u8?wowzasessionid=2025070830
+#EXTINF:0, WORO CANAL 13 catolico
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+#EXTINF:0, BENDICION TV
+http://live247tv.net:1935/manuel284/manuel284/playlist.m3u8
+#EXTINF:0, RNV TV
+http://ca1.ministeriotv.com:1935/267/267/chunklist_w1219307111.m3u8
+#EXTINF:0, ICCRADIO TV
+http://live247tv.net:1935/danielfernando146/danielfernando146/playlist.m3u8
+#EXTINF:0, CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0, rtv vida
+http://178.32.53.254/radiovida/livestream/chunklist.m3u8
+#EXTINF:0, mision vida
+http://205.164.56.130:1935/jorge854/jorge854/chunklist.m3u8
+#EXTINF:0, EL PUERTO TV
+http://205.164.56.130:1935/secundinoantonio749/secundinoantonio749/playlist.m3u8
+#EXTINF:0,Esperanza Tv
+http://ca1.ministeriotv.com:1935/1521/1521/chunklist.m3u8
+#EXTINF:0, TELEADONAI
+rtmp://wow.adonainy.com/live//streamName
+#EXTINF:0, TIEMPO FINAL RADIO
+http://va1.ministeriotv.com:1936/6/stream/chunklist_w1704192068.m3u8
+#EXTINF:0, FUEGO SANTO RADIO
+http://va1.ministeriotv.com:1936/256/stream/chunklist_w1107454307.m3u8
+#EXTINF:0, POSTREROS TIEMPOS RADIO
+http://va1.ministeriotv.com:1936/2/stream/chunklist_w1486165420.m3u8
+#EXTINF:0, REEDIFICANDO LOS MUROS CAIDOS RADIO
+http://ca1.ministeriotv.com:1935/262/262/chunklist_w1777282906.m3u8
+#EXTINF:0, RNV TV
+http://ca1.ministeriotv.com:1935/267/267/chunklist_w1219307111.m3u8
+#EXTINF:0, CANAL DE AYUDA
+http://ca1.ministeriotv.com:1935/280/280/chunklist_w541714461.m3u8
+#EXTINF:0, CTN INT.
+http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/chunklist_w1816794543_b1556000_slesp.m3u8
+#EXTINF:0,CTNi  
+http://184.164.158.202:1936/48/smil:48.smil/chunklist_w840077962_b1564000_sleng.m3u8
+#EXTINF:0,CBN Español  
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0,Vision Celestial      
+http://streaming.omeganet.org:1935/vc/envivo/chunklist_w1068747420.m3u8
+#EXTINF:0,RTVida HD  
+http://178.32.53.254/radiovida/livestream/chunklist_w436950567.m3u8
+#EXTINF:0,CDM Internacional    
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:0,Comunion TV    
+http://50.30.37.36:1935/live/smil:MyStream.smil/chunklist.m3u8
+#EXTINF:0,Red Advenir      
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist.m3u8?wowzasessionid=1788782041
+#EXTINF:0,Rhema Vision                                  
+http://va1.ministeriotv.com:1936/64/stream/chunklist.m3u8
+#EXTINF:0, CBN ESPAÑOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0, rtv vida
+http://178.32.53.254/radiovida/livestream/chunklist.m3u8
+#EXTINF:0, cielo tv
+http://wan-lbf.net:1935/cielotv/myStream.sdp/chunklist.m3u8
+#EXTINF:0, reino tv
+http://streaming.omeganet.org:1935/reinotv/envivo/playlist.m3u8
+#EXTINF:0, ministerio int la senda
+http://streaming.omeganet.org:1935/lasenda/canal_MB/playlist.m3u8
+#EXTINF:0, CMB TV
+http://st1.worldkast.com/cmbstream/ngrp:cmbstream_all/chunklist_w1177217307_b934400.m3u8
+#EXTINF:0, logos tv
+http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
+#EXTINF:0, CRISTO VISION
+http://live10.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
+#EXTINF:0, casa de adoracion int.
+http://ihoplive-f.akamaihd.net/i/ihopkc_tprhd@142185/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, solidaria tv
+http://panel.cdnstreamserver.com/live/argentina-web.m3u8
+#EXTINF:0, comunion tv
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:0, red advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/chunklist.m3u8
+#EXTINF:0, tabernaculo bautista
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8
+#EXTINF:0, iglesia ebenezer honduras
+http://hds4.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
+#EXTINF:0,nuevo tiempo
+http://wow1.dallas.digitalproserver.com/ntiempo/ntiempovivo/ntiempo.smil/playlist.m3u8
+#EXTINF:0, CDM INT
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:0, faro de sanidad
+http://va1.ministeriotv.com:1936/110/stream/playlist.m3u8
+#EXTINF:0, rema vision
+http://va1.ministeriotv.com:1936/64/stream/playlist.m3u8
+#EXTINF:0,Cielo TV                                              
+http://wan-lbf.net:1935/cielotv/myStream.sdp/chunklist_w33951886.m3u8
+#EXTINF:0,Rodolfo Font TV
+http://streaming.omeganet.org:1935/reinotv/envivo/chunklist_w29851567.m3u8
+#EXTINF:0,Ministerio Internacional La Senda
+http://streaming.omeganet.org:1935/lasenda/canal_MB/chunklist_w1310386807.m3u8
+#EXTINF:0,Alerta TV *
+http://server1.alertacableaccion.com:1935/live/dvr/chunklist.m3u8
+#EXTINF:0, ALERT TV
+http://server1.alertacableaccion.com:1935/Channel-5iphonelive/ALERTTV.sdp/playlist.m3u8
+#EXTINF:0, Adoración Internacional
+http://ihoplive-f.akamaihd.net/i/ihopkc_tprhd@142185/index_2500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0, CONGREGACION CRISTIANA
+http://205.164.56.130:1935/carmen249/carmen249/playlist.m3u8
+#EXTINF:0, esne tv (CANAL CATOLICO)
+http://198.154.228.82:1935/esne-live/smil:esnetv.smil/playlist.m3u8
+#EXTINF:0, THE HOLY SPIRIT TV
+http://205.164.56.130:1935/ed381/ed381/playlist.m3u8
+#EXTINF:0, hope channel
+http://bcliveuniv-lh.akamaihd.net/i/HopeChannel_1@182961/master.m3u8
+#EXTINF:0, gospel channel
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-gospel/_definst_/live.m3u8
+#EXTINF:0, ctn hd
+http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
+#EXTINF:0, house of yahweh
+http://198.57.164.156:1935/live/SermonLoop/playlist.m3u8
+#EXTINF:0, channel God
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+#EXTINF:0, cbn news
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0, cbn ingles
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0, canal tct
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/playlist.m3u8
+#EXTINF:0, REVELATION TV
+https://dwun498y9o8lf.cloudfront.net/revelationtv/live.m3u8
+EXTINF:0, ELOHIM TV
+http://205.164.56.130:1935/radhames706/radhames706/playlist.m3u8
+#EXTINF:0, alfa y omega
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:0, its supernatural network
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:0, ***CANALES ARREOLA****
+http://landiptv.live:8080/live/ricardo/ricardo/7
+#EXTINF:-1, TELENORD 8
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/media_w1713557519.m3u8
+#EXTINF:-1, TELENORD12 TV
+http://newyorkstreamss2.ddns.net:28987/telenord12/telenord12/media_w1227936056.m3u8
+#EXTINF:-1, ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1, RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/media_w1632423129.m3u8
+#EXTINF:-1, SUPER 5
+http://k4.usastreams.com/superC/superC_1/media_w27246718.m3u8
+#EXTINF:-1, canal 4
+http://184.154.28.210:1935/canal4/canal4/media_w1793076184.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/8pbx0w7B8m0ymgPYU0H1KC2dNDOx48Yn24HPwTFe00JC7ym8Nrs6XbpY6X0INKYLqVSG=w300"group-title="Canales",IMPACTOVISION
+http://50.7.98.236:1935/gnode03/smil:gnode03.smil/chunklist_w1994341323_b978000_sleng.m3u8
+#EXTINF:0,********ARREOLA**********
+http://landiptv.live:8080/live/felix/felix/97747.M3U8
+#EXTINF:0, RCN | SD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8 
+#EXTINF:0, Canal 10 Chetumal | HD
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0, TV Mas | SD
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:0, Multimedios Monterrey | HD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0, Multimedios Laguna | HD
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0, Foro TV | SD
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:0, Milenio | SD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0, Mexiquense | SD
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0, Ultra TV Puebla | HD
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
+#EXTINF:0, Ultra TV Aguacalientes | HD
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
+#EXTINF:0, Teleritmo | SD
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0, Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:0, Ingenio TV | SD
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
+#EXTINF:0, Canal del Congreso | SD
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8
+#EXTINF:0, Canal 4 | SD
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:0, Canal 20 Zacatecas | SD
+http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
+#EXTINF:0, Tlaxcala TV | SD
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0, Capital 21 | SD
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+#EXTINF:0, RCG | SD
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8
+#EXTINF:0, RCG 2 | SD
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:0, RCG 3 | SD
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:0, TV Cuatro 4.1 | HD
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8
+#EXTINF:0, TV Cuatro 4.2 | HD
+https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8
+#EXTINF:0, C7 Jalisco | SD
+http://streamingcws10.com:1935/c7noticias/videoc7noticias/playlist.m3u8?DVR
+#EXTINF:0, Puebla TV | SD
+http://189.203.247.136/live/pueblatv/playlist.m3u8
+#EXTINF:0, TVP Mazatlan | FHD
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:0, Telemax Sonora | HD
+http://s5.mexside.net:1935/telemax_1/telemax_1/playlist.m3u8
+#EXTINF:0, 15TV Sabinas | SD
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
+#EXTINF:0, Canal 4
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:0, Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:0, Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8
+#EXTINF:0, TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+#EXTINF:0, Canal Carnaval 38
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+#EXTINF:0, UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0, UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:0, VTV
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+#EXTINF:0, VTV 2
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0, DeporTV | SD
+https://564e2be0304b6.streamlock.net/DXTV/smil:DXTV/playlist.m3u8
+#EXTINF:0, Real Madrid TV | SD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, Sevilla FC | SD
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:0, MLB | HD
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0, Mundo Auto Television | HD
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:0, Rugby TV | SD
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:0, CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1,KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+#EXTINF:-1,SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1,Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1,100% Automoto (BG)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,Wapa Deportes
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
+#EXTINF:-1,Mundo Auto
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8
+#EXTINF:-1, Cachipun tv
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1, Trailer tv
+https://wowzaprod4-i.akamaihd.net/hls/live/253920/a33b581b/playlist.m3u8
+#EXTINF:-1,RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?hd=10&rebase=on
+#EXTINF:-1,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
